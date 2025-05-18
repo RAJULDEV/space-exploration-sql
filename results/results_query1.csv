@@ -1,0 +1,21 @@
+mission_name,agency_name,launch_date,destination,mission_type,success,cost
+"Sputnik 8K71PS | Sputnik-1","RVSN USSR","1957-10-04 19:28:00",Other,Robotic,1,NULL
+"Sputnik 8K71PS | Sputnik-2","RVSN USSR","1957-11-03 02:30:00",Other,Robotic,1,NULL
+"Vanguard | Vanguard TV3","US Navy","1957-12-06 16:44:00",Other,Robotic,0,NULL
+"Juno I | Explorer 1",AMBA,"1958-02-01 03:48:00",Other,Robotic,1,NULL
+"Vanguard | Vanguard TV3BU","US Navy","1958-02-05 07:33:00",Other,Robotic,0,NULL
+"Juno I | Explorer 2",AMBA,"1958-03-05 18:27:00",Other,Robotic,0,NULL
+"Vanguard | Vanguard 1","US Navy","1958-03-17 12:15:00",Other,Robotic,1,NULL
+"Juno I | Explorer 3",AMBA,"1958-03-26 17:38:00",Other,Robotic,1,NULL
+"Sputnik 8A91 | Sputnik-3 #1","RVSN USSR","1958-04-27 09:01:00",Other,Robotic,0,NULL
+"Vanguard | Vanguard TV5","US Navy","1958-04-28 02:53:00",Other,Robotic,0,NULL
+"Sputnik 8A91 | Sputnik-3 #2","RVSN USSR","1958-05-15 07:12:00",Other,Robotic,1,NULL
+"Vanguard | Vanguard SLV-1","US Navy","1958-05-28 03:46:00",Other,Robotic,0,NULL
+"Vanguard | Vanguard SLV-2","US Navy","1958-06-26 05:00:00",Other,Robotic,0,NULL
+"NOTS-EV-1 Pilot II | Pilot-1 (D1)","US Navy","1958-07-25 00:00:00",Other,Robotic,0,NULL
+"Juno I | Explorer 4",AMBA,"1958-07-26 15:00:00",Other,Robotic,1,NULL
+"NOTS-EV-1 Pilot II | Pilot-2 (D2)","US Navy","1958-08-12 00:00:00",Other,Robotic,0,NULL
+"Thor-DM 18 Able I | Pioneer 0","US Air Force","1958-08-17 12:18:00",Other,Robotic,0,NULL
+"NOTS-EV-1 Pilot II | Pilot-3 (D3)","US Navy","1958-08-22 00:00:00",Other,Robotic,0,NULL
+"Juno I | Explorer 5",AMBA,"1958-08-24 06:17:00",Other,Robotic,0,NULL
+"NOTS-EV-1 Pilot II | Pilot-4 (R1)","US Navy","1958-08-25 00:00:00",Other,Robotic,0,NULL
