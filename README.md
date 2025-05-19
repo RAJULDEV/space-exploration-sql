@@ -53,3 +53,6 @@ A SQL project analyzing 4,324 space missions from 1957 to 2020 using the Kaggle 
 
 ## License
 This project is licensed under the MIT License
+
+## Visualization
+- Bar chart of missions by decade: [results/missions_by_decade.png](results/missions_by_decade.png)
